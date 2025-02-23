@@ -1,0 +1,12 @@
+execute if block ~1 ~ ~ minecraft:stone run setblock ~1 ~ ~ minecraft:iron_ore replace
+execute if block ~-1 ~ ~ minecraft:stone run setblock ~-1 ~ ~ minecraft:iron_ore replace
+execute if block ~ ~1 ~ minecraft:stone run setblock ~ ~1 ~ minecraft:iron_ore replace
+execute if block ~ ~-1 ~ minecraft:stone run setblock ~ ~-1 ~ minecraft:iron_ore replace
+execute if block ~ ~ ~1 minecraft:stone run setblock ~ ~ ~1 minecraft:iron_ore replace
+execute if block ~ ~ ~-1 minecraft:stone run setblock ~ ~ ~-1 minecraft:iron_ore replace
+execute if block ~1 ~ ~ minecraft:deepslate run setblock ~1 ~ ~ minecraft:deepslate_iron_ore replace
+execute if block ~-1 ~ ~ minecraft:deepslate run setblock ~-1 ~ ~ minecraft:deepslate_iron_ore replace
+execute if block ~ ~1 ~ minecraft:deepslate run setblock ~ ~1 ~ minecraft:deepslate_iron_ore replace
+execute if block ~ ~-1 ~ minecraft:deepslate run setblock ~ ~-1 ~ minecraft:deepslate_iron_ore replace
+execute if block ~ ~ ~1 minecraft:deepslate run setblock ~ ~ ~1 minecraft:deepslate_iron_ore replace
+execute if block ~ ~ ~-1 minecraft:deepslate run setblock ~ ~ ~-1 minecraft:deepslate_iron_ore replace

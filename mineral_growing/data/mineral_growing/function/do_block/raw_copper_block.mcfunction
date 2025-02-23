@@ -1,0 +1,12 @@
+execute if block ~1 ~ ~ minecraft:stone run setblock ~1 ~ ~ minecraft:raw_copper_block replace
+execute if block ~-1 ~ ~ minecraft:stone run setblock ~-1 ~ ~ minecraft:raw_copper_block replace
+execute if block ~ ~1 ~ minecraft:stone run setblock ~ ~1 ~ minecraft:raw_copper_block replace
+execute if block ~ ~-1 ~ minecraft:stone run setblock ~ ~-1 ~ minecraft:raw_copper_block replace
+execute if block ~ ~ ~1 minecraft:stone run setblock ~ ~ ~1 minecraft:raw_copper_block replace
+execute if block ~ ~ ~-1 minecraft:stone run setblock ~ ~ ~-1 minecraft:raw_copper_block replace
+execute if block ~1 ~ ~ minecraft:deepslate run setblock ~1 ~ ~ minecraft:raw_copper_block replace
+execute if block ~-1 ~ ~ minecraft:deepslate run setblock ~-1 ~ ~ minecraft:raw_copper_block replace
+execute if block ~ ~1 ~ minecraft:deepslate run setblock ~ ~1 ~ minecraft:raw_copper_block replace
+execute if block ~ ~-1 ~ minecraft:deepslate run setblock ~ ~-1 ~ minecraft:raw_copper_block replace
+execute if block ~ ~ ~1 minecraft:deepslate run setblock ~ ~ ~1 minecraft:raw_copper_block replace
+execute if block ~ ~ ~-1 minecraft:deepslate run setblock ~ ~ ~-1 minecraft:raw_copper_block replace

@@ -1,0 +1,12 @@
+execute if block ~1 ~ ~ minecraft:stone run setblock ~1 ~ ~ minecraft:coal_ore replace
+execute if block ~-1 ~ ~ minecraft:stone run setblock ~-1 ~ ~ minecraft:coal_ore replace
+execute if block ~ ~1 ~ minecraft:stone run setblock ~ ~1 ~ minecraft:coal_ore replace
+execute if block ~ ~-1 ~ minecraft:stone run setblock ~ ~-1 ~ minecraft:coal_ore replace
+execute if block ~ ~ ~1 minecraft:stone run setblock ~ ~ ~1 minecraft:coal_ore replace
+execute if block ~ ~ ~-1 minecraft:stone run setblock ~ ~ ~-1 minecraft:coal_ore replace
+execute if block ~1 ~ ~ minecraft:deepslate run setblock ~1 ~ ~ minecraft:deepslate_coal_ore replace
+execute if block ~-1 ~ ~ minecraft:deepslate run setblock ~-1 ~ ~ minecraft:deepslate_coal_ore replace
+execute if block ~ ~1 ~ minecraft:deepslate run setblock ~ ~1 ~ minecraft:deepslate_coal_ore replace
+execute if block ~ ~-1 ~ minecraft:deepslate run setblock ~ ~-1 ~ minecraft:deepslate_coal_ore replace
+execute if block ~ ~ ~1 minecraft:deepslate run setblock ~ ~ ~1 minecraft:deepslate_coal_ore replace
+execute if block ~ ~ ~-1 minecraft:deepslate run setblock ~ ~ ~-1 minecraft:deepslate_coal_ore replace

@@ -1,0 +1,1 @@
+$execute positioned ~$(x) $(y) ~$(z) if loaded ~ ~ ~ if block ~ ~ ~ #mineral_growing:blocks_can_growing run function mineral_growing:do_block/main

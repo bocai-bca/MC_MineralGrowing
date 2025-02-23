@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ #mineral_growing:coal_ore run function mineral_growing:do_block/coal_ore
+execute if block ~ ~ ~ #mineral_growing:iron_ore run function mineral_growing:do_block/iron_ore
+execute if block ~ ~ ~ #mineral_growing:copper_ore run function mineral_growing:do_block/copper_ore
+execute if block ~ ~ ~ #mineral_growing:gold_ore run function mineral_growing:do_block/gold_ore
+execute if block ~ ~ ~ #mineral_growing:redstone_ore run function mineral_growing:do_block/redstone_ore
+execute if block ~ ~ ~ #mineral_growing:emerald_ore run function mineral_growing:do_block/emerald_ore
+execute if block ~ ~ ~ #mineral_growing:lapis_ore run function mineral_growing:do_block/lapis_ore
+execute if block ~ ~ ~ #mineral_growing:diamond_ore run function mineral_growing:do_block/diamond_ore
+execute if block ~ ~ ~ minecraft:nether_gold_ore run function mineral_growing:do_block/nether_gold_ore
+execute if block ~ ~ ~ minecraft:nether_quartz_ore run function mineral_growing:do_block/nether_quartz_ore
+execute if block ~ ~ ~ minecraft:ancient_debris run function mineral_growing:do_block/ancient_debris
+execute if block ~ ~ ~ minecraft:raw_iron_block run function mineral_growing:do_block/raw_iron_block
+execute if block ~ ~ ~ minecraft:raw_copper_block run function mineral_growing:do_block/raw_copper_block
+execute if block ~ ~ ~ minecraft:raw_gold_block run function mineral_growing:do_block/raw_gold_block
+execute if block ~ ~ ~ minecraft:glowstone run function mineral_growing:do_block/glowstone
+execute if block ~ ~ ~ minecraft:ancient_debris run function mineral_growing:do_block/ancient_debris
